@@ -1,0 +1,14 @@
+# Folders
+/game_metadata
+/replays
+/res
+/screenshots
+/updates
+/win64
+
+#Files
+*.xml
+*.bak
+*.txt
+*.log
+*.exe
