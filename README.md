@@ -17,7 +17,7 @@ I wanted to use my knowledge in git to create this modpack, and also to make it 
 ## Installation
 - Go to your World of Tanks folder, usually located at `C:\Games\World_of_Tanks_NA`
 -  Right click on the folder and select `Git Bash Here`
-- Run the following commands:
+- Run the following commands (You can copy and paste the commands with right click on the terminal or alternatively use `Shift + Insert`):
 ```
 git init
 git remote add origin https://github.com/Peristroff/peristroff-wot-modpack
